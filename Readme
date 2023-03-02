@@ -1,0 +1,14 @@
+Expense Tracker
+
+functionalities:
+
+1.Add new Expense with the below fields,It will be added to the list
+-Expense title
+-Expense amount
+-Date
+
+2.Analyse Monthly expenses
+
+3.User can view the Monthly analysis report via chart
+
+4.User can filter the expenses with yearly filter
